@@ -46,7 +46,7 @@
         </section>
     </main>
     <footer>
-        Copyright &copy; 2025 Jeremi Ogrodowczyk.
+        Copyright &copy; 2025 Gall Anonim.
     </footer>
 </body>
 </html>
